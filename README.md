@@ -1,7 +1,7 @@
 ## unity-2d-dynamic-maze-game ##
 
-
-Welcome to my GitHub repository for the dynamic maze game project that I'm working on as part of my first year in software engineering. This project marks my first foray into game development, where I aim to utilize Unity along with principles from graph theory to create an engaging and dynamic maze experience.
+# coloborative project
+Welcome to our GitHub repository for the dynamic maze game project that I'm working on with my colleague @fatimazahrae03 as part of our first year in software engineering. This project marks our first foray into game development, where we aim to utilize Unity along with principles from graph theory to create an engaging and dynamic maze experience.
 
 # Project Overview
 The dynamic maze game is an exciting endeavor where players navigate through a maze that evolves and changes dynamically. Unlike traditional static mazes, this game adapts to player interactions and presents new challenges with each playthrough.
