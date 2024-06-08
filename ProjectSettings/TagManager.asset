@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spawnable
+  - Ground
+  - Block
+  - Enemy
+  - Coin
+  - Fin
+  - BonusCoin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - map
+  - Water
+  - UI
+  - InvisibleLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: map
+    uniqueID: 3318589281
+    locked: 0
